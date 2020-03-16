@@ -1,0 +1,7 @@
+{
+  "LetsencryptPath": "/etc/letsencrypt",
+  "Domains": [
+    "example.com"
+  ],
+  "Port": 8080
+}
